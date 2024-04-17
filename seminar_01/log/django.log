@@ -1,0 +1,7 @@
+INFO 2024-04-17 18:10:44,944 autoreload 6180 14580 Watching for file changes with StatReloader
+INFO 2024-04-17 18:10:49,385 views 6180 9844 Index page accessed
+INFO 2024-04-17 18:10:49,386 basehttp 6180 9844 "GET / HTTP/1.1" 200 127
+INFO 2024-04-17 18:10:51,079 views 6180 9844 Index page accessed
+INFO 2024-04-17 18:10:51,080 basehttp 6180 9844 "GET / HTTP/1.1" 200 127
+INFO 2024-04-17 18:10:59,953 views 6180 9844 About page accessed
+INFO 2024-04-17 18:10:59,953 basehttp 6180 9844 "GET /about/ HTTP/1.1" 200 217
