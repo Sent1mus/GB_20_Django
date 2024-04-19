@@ -1,0 +1,35 @@
+INFO 2024-04-17 18:10:44,944 autoreload 6180 14580 Watching for file changes with StatReloader
+INFO 2024-04-17 18:10:49,385 views 6180 9844 Index page accessed
+INFO 2024-04-17 18:10:49,386 basehttp 6180 9844 "GET / HTTP/1.1" 200 127
+INFO 2024-04-17 18:10:51,079 views 6180 9844 Index page accessed
+INFO 2024-04-17 18:10:51,080 basehttp 6180 9844 "GET / HTTP/1.1" 200 127
+INFO 2024-04-17 18:10:59,953 views 6180 9844 About page accessed
+INFO 2024-04-17 18:10:59,953 basehttp 6180 9844 "GET /about/ HTTP/1.1" 200 217
+INFO 2024-04-19 23:14:35,536 autoreload 21388 28404 Watching for file changes with StatReloader
+INFO 2024-04-19 23:14:37,792 views 21388 14728 Index page accessed
+INFO 2024-04-19 23:14:37,792 basehttp 21388 14728 "GET / HTTP/1.1" 200 127
+WARNING 2024-04-19 23:14:38,093 log 21388 14728 Not Found: /favicon.ico
+WARNING 2024-04-19 23:14:38,093 basehttp 21388 14728 "GET /favicon.ico HTTP/1.1" 404 2442
+INFO 2024-04-19 23:14:39,326 views 21388 14728 Index page accessed
+INFO 2024-04-19 23:14:39,327 basehttp 21388 14728 "GET / HTTP/1.1" 200 127
+INFO 2024-04-19 23:14:39,714 basehttp 21388 14728 "GET /about HTTP/1.1" 301 0
+INFO 2024-04-19 23:14:39,716 views 21388 8124 About page accessed
+INFO 2024-04-19 23:14:39,717 basehttp 21388 8124 "GET /about/ HTTP/1.1" 200 217
+INFO 2024-04-19 23:47:58,263 autoreload 14112 7300 Watching for file changes with StatReloader
+INFO 2024-04-19 23:47:59,612 views 14112 1716 Index page accessed
+INFO 2024-04-19 23:47:59,613 basehttp 14112 1716 "GET / HTTP/1.1" 200 127
+INFO 2024-04-19 23:48:00,868 views 14112 1716 Index page accessed
+INFO 2024-04-19 23:48:00,868 basehttp 14112 1716 "GET / HTTP/1.1" 200 127
+INFO 2024-04-19 23:48:01,361 views 14112 1716 About page accessed
+INFO 2024-04-19 23:48:01,361 basehttp 14112 1716 "GET /about/ HTTP/1.1" 200 217
+INFO 2024-04-20 00:00:00,361 autoreload 12416 15660 Watching for file changes with StatReloader
+INFO 2024-04-20 00:00:01,721 views 12416 22692 Index page accessed
+INFO 2024-04-20 00:00:01,722 basehttp 12416 22692 "GET / HTTP/1.1" 200 127
+INFO 2024-04-20 00:00:03,276 views 12416 22692 Index page accessed
+INFO 2024-04-20 00:00:03,276 basehttp 12416 22692 "GET / HTTP/1.1" 200 127
+INFO 2024-04-20 00:00:03,588 views 12416 22692 About page accessed
+INFO 2024-04-20 00:00:03,589 basehttp 12416 22692 "GET /about/ HTTP/1.1" 200 217
+INFO 2024-04-20 00:03:57,318 autoreload 2272 18968 Watching for file changes with StatReloader
+INFO 2024-04-20 00:04:01,854 autoreload 1796 14772 Watching for file changes with StatReloader
+INFO 2024-04-20 00:04:02,666 views 1796 19004 Index page accessed
+INFO 2024-04-20 00:04:02,666 basehttp 1796 19004 "GET / HTTP/1.1" 200 127
