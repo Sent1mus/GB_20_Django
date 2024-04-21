@@ -1,0 +1,11 @@
+{% extends 'myapp/base.html' %}
+<head>
+    <title>{{ title }}</title>
+</head>
+<body>
+{% block content %}
+    <h1>{{ page_title }}</h1><br>
+    <p>{{ description }}</p>
+    <a href='{{ github_link }}'>{{ my_cave }}</a><br>
+{% endblock %}
+</body>

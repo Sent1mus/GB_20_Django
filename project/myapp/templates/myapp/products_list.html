@@ -1,0 +1,40 @@
+{% extends 'myapp/base.html' %}
+{% load static %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<div>
+    <h3>Products list</h3>
+    <table class="wide">
+        <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Added</th>
+            <th>Amount</th>
+            <th>Description</th>
+<!--            <th>Image</th>-->
+        </tr>
+        {% for product in products %}
+        <tr>
+            <td class="c_align">{{ product.0 }}</td>
+            <td class="c_align">{{ product.1.pk }}</td>
+            <td>{{ product.1.name }}</td>
+            <td>{{ product.1.price }}</td>
+            <td>{{ product.1.add_date }}</td>
+            <td>{{ product.1.amount }}</td>
+            <td>{{ product.1.description }}</td>
+<!--            <td>{% if product.1.p_image %}-->
+<!--                <img class="image__small" src="{% static product.1.p_image %}" alt="image for: {{ product.1.name }}">-->
+<!--                {% else %}-->
+<!--                <p>image for:<br>{{ product.1.name }}</p>-->
+<!--                {% endif %}-->
+<!--            </td>-->
+
+        </tr>
+        {% endfor %}
+    </table>
+</div>
+{% endblock %}

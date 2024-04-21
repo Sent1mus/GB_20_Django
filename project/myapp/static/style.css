@@ -1,0 +1,38 @@
+table {
+    width: 800px;
+    border: solid 1px black;
+    border-collapse: collapse;
+    margin-bottom: 14pt;
+}
+.wide {
+    width: 1024px;
+}
+tr {
+    border: solid 1px black;
+}
+td {
+    border: solid 1px black;
+    padding: 2pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+th {
+    background-color: #ccc;
+    border: solid 1px black;
+    text-align: center;
+}
+.price {
+    width: 200px;
+}
+.number {
+    width: 100px;
+}
+.r_align {
+    text-align: right;
+}
+.c_align {
+    text-align: center;
+}
+.image__small {
+    width: 150px;
+}
