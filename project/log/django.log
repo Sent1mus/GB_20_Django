@@ -1,0 +1,2 @@
+INFO 2024-04-28 01:17:25,515 autoreload 13688 27352 Watching for file changes with StatReloader
+INFO 2024-04-28 01:17:27,388 basehttp 13688 30288 "GET /edit_products/ HTTP/1.1" 200 3162

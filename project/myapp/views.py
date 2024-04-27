@@ -1,7 +1,7 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 from datetime import datetime as dt, timedelta
 from .models import Client, Product, Order
-
+from .forms import EditProductAndAddPhotoForm
 import logging
 from django.http import HttpResponse
 
@@ -133,3 +133,34 @@ def ordered_products_unique(request, client_id, period):
             for item in sorted(products_total, key=lambda x: x.price)
         ]
     return render(request, 'myapp/ordered_products_unique.html', context=context)
+
+
+def edit_product_and_add_photo(request):
+    if request.method == 'POST':
+        form = EditProductAndAddPhotoForm(request.POST, request.FILES)
+        if form.is_valid():
+            product_pk = int(form.cleaned_data['product'])
+            product = get_object_or_404(Product, pk=product_pk)
+            product.name = form.cleaned_data['name']
+            product.description = form.cleaned_data['description']
+            product.price = form.cleaned_data['price']
+            product.amount = form.cleaned_data['amount']
+            product.add_date = dt.today()
+
+            # Handle photo upload or removal
+            if form.cleaned_data['p_image']:
+                product.p_image = form.cleaned_data['p_image']
+            elif form.cleaned_data['remove_photo']:
+                if product.p_image:
+                    try:
+                        os.unlink(product.p_image.path)
+                    except OSError:
+                        pass
+                    product.p_image = None
+
+            product.save()
+            return redirect('edit_product_and_add_photo')
+    else:
+        form = EditProductAndAddPhotoForm()
+
+    return render(request, 'myapp/edit_products.html', {'title': 'Edit Product and Add Photo', 'form': form})
