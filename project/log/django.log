@@ -1,2 +1,194 @@
 INFO 2024-04-28 01:17:25,515 autoreload 13688 27352 Watching for file changes with StatReloader
 INFO 2024-04-28 01:17:27,388 basehttp 13688 30288 "GET /edit_products/ HTTP/1.1" 200 3162
+INFO 2024-05-01 22:01:02,175 autoreload 13476 31324 Watching for file changes with StatReloader
+INFO 2024-05-01 22:01:04,056 views 13476 17732 Index page accessed
+INFO 2024-05-01 22:01:04,070 basehttp 13476 17732 "GET / HTTP/1.1" 200 540
+INFO 2024-05-01 22:01:04,107 basehttp 13476 17732 "GET /static/style.css HTTP/1.1" 304 0
+WARNING 2024-05-01 22:01:04,484 log 13476 17732 Not Found: /favicon.ico
+WARNING 2024-05-01 22:01:04,485 basehttp 13476 17732 "GET /favicon.ico HTTP/1.1" 404 3490
+INFO 2024-05-01 22:01:08,033 views 13476 17732 About page accessed
+INFO 2024-05-01 22:01:08,051 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+INFO 2024-05-01 22:01:10,178 views 13476 17732 About page accessed
+INFO 2024-05-01 22:01:10,178 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+WARNING 2024-05-01 22:01:13,453 log 13476 17732 Not Found: /about/about/
+WARNING 2024-05-01 22:01:13,454 basehttp 13476 17732 "GET /about/about/ HTTP/1.1" 404 3493
+WARNING 2024-05-01 22:01:16,731 log 13476 17732 Not Found: /about/about/
+WARNING 2024-05-01 22:01:16,731 basehttp 13476 17732 "GET /about/about/ HTTP/1.1" 404 3493
+WARNING 2024-05-01 22:02:28,244 log 13476 17732 Not Found: /about/about/
+WARNING 2024-05-01 22:02:28,245 basehttp 13476 17732 "GET /about/about/ HTTP/1.1" 404 3493
+INFO 2024-05-01 22:02:31,608 views 13476 17732 About page accessed
+INFO 2024-05-01 22:02:31,609 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+WARNING 2024-05-01 22:02:32,526 log 13476 17732 Not Found: /about/about/
+WARNING 2024-05-01 22:02:32,526 basehttp 13476 17732 "GET /about/about/ HTTP/1.1" 404 3493
+INFO 2024-05-01 22:02:34,464 views 13476 17732 About page accessed
+INFO 2024-05-01 22:02:34,466 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+INFO 2024-05-01 22:02:40,716 views 13476 17732 About page accessed
+INFO 2024-05-01 22:02:40,716 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+INFO 2024-05-01 22:02:41,508 views 13476 17732 About page accessed
+INFO 2024-05-01 22:02:41,508 basehttp 13476 17732 "GET /about/ HTTP/1.1" 200 617
+INFO 2024-05-01 22:02:50,636 autoreload 19880 2828 Watching for file changes with StatReloader
+INFO 2024-05-01 22:02:52,380 views 19880 26232 About page accessed
+INFO 2024-05-01 22:02:52,384 basehttp 19880 26232 "GET /about/ HTTP/1.1" 200 618
+INFO 2024-05-01 22:02:53,226 views 19880 26232 Index page accessed
+INFO 2024-05-01 22:02:53,227 basehttp 19880 26232 "GET / HTTP/1.1" 200 541
+INFO 2024-05-01 22:02:53,898 views 19880 26232 Index page accessed
+INFO 2024-05-01 22:02:53,898 basehttp 19880 26232 "GET / HTTP/1.1" 200 541
+INFO 2024-05-01 22:02:54,379 views 19880 26232 Index page accessed
+INFO 2024-05-01 22:02:54,380 basehttp 19880 26232 "GET / HTTP/1.1" 200 541
+INFO 2024-05-01 22:02:54,861 views 19880 26232 About page accessed
+INFO 2024-05-01 22:02:54,862 basehttp 19880 26232 "GET /about/ HTTP/1.1" 200 618
+INFO 2024-05-01 22:02:55,817 views 19880 26232 Index page accessed
+INFO 2024-05-01 22:02:55,818 basehttp 19880 26232 "GET / HTTP/1.1" 200 541
+INFO 2024-05-01 22:02:57,003 views 19880 26232 About page accessed
+INFO 2024-05-01 22:02:57,004 basehttp 19880 26232 "GET /about/ HTTP/1.1" 200 618
+WARNING 2024-05-01 22:03:00,707 log 19880 26232 Not Found: /about/about/
+WARNING 2024-05-01 22:03:00,707 basehttp 19880 26232 "GET /about/about/ HTTP/1.1" 404 3493
+INFO 2024-05-01 22:04:42,480 autoreload 11588 3944 Watching for file changes with StatReloader
+INFO 2024-05-01 22:04:43,520 views 11588 3528 Index page accessed
+INFO 2024-05-01 22:04:43,527 basehttp 11588 3528 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:04:44,663 views 11588 3528 About page accessed
+INFO 2024-05-01 22:04:44,665 basehttp 11588 3528 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:04:45,225 views 11588 3528 About page accessed
+INFO 2024-05-01 22:04:45,226 basehttp 11588 3528 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:04:45,782 views 11588 3528 About page accessed
+INFO 2024-05-01 22:04:45,788 basehttp 11588 3528 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:04:46,631 views 11588 3528 Index page accessed
+INFO 2024-05-01 22:04:46,632 basehttp 11588 3528 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:04:47,155 views 11588 3528 Index page accessed
+INFO 2024-05-01 22:04:47,156 basehttp 11588 3528 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:04:47,532 views 11588 3528 Index page accessed
+INFO 2024-05-01 22:04:47,532 basehttp 11588 3528 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:19,445 autoreload 6308 8 Watching for file changes with StatReloader
+INFO 2024-05-01 22:05:20,674 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:20,680 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:21,658 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:21,658 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:22,390 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:22,391 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:23,174 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:23,175 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:24,825 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:24,826 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:25,190 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:25,191 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:25,593 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:25,594 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:26,315 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:26,316 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:27,050 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:27,050 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:31,907 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:31,907 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:32,292 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:32,293 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:05:32,776 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:32,776 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:33,364 views 6308 9892 About page accessed
+INFO 2024-05-01 22:05:33,365 basehttp 6308 9892 "GET /about/ HTTP/1.1" 200 619
+INFO 2024-05-01 22:05:34,285 views 6308 9892 Index page accessed
+INFO 2024-05-01 22:05:34,286 basehttp 6308 9892 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:12:50,818 autoreload 32612 18964 Watching for file changes with StatReloader
+INFO 2024-05-01 22:12:51,543 views 32612 3036 Index page accessed
+INFO 2024-05-01 22:12:51,546 basehttp 32612 3036 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:12:55,463 basehttp 32612 3036 "GET /admin HTTP/1.1" 301 0
+INFO 2024-05-01 22:12:55,488 basehttp 32612 22120 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-01 22:12:55,669 basehttp 32612 22120 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-05-01 22:12:55,836 basehttp 32612 22120 "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-05-01 22:12:55,846 basehttp 32612 10568 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-05-01 22:12:55,869 basehttp 32612 19240 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-05-01 22:12:55,869 basehttp 32612 25360 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-05-01 22:12:55,869 basehttp 32612 31048 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 2024-05-01 22:12:55,880 basehttp 32612 10568 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-05-01 22:12:55,882 basehttp 32612 22120 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-05-01 22:15:59,517 autoreload 25156 12920 Watching for file changes with StatReloader
+INFO 2024-05-01 22:16:00,529 views 25156 27848 Index page accessed
+INFO 2024-05-01 22:16:00,534 basehttp 25156 27848 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:16:05,104 basehttp 25156 27848 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-05-01 22:16:05,120 basehttp 25156 27848 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-05-01 22:16:08,196 basehttp 25156 27848 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-05-01 22:16:08,251 basehttp 25156 27848 "GET /admin/ HTTP/1.1" 200 5944
+INFO 2024-05-01 22:16:08,324 basehttp 25156 27848 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-05-01 22:16:08,342 basehttp 25156 31700 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-05-01 22:16:08,342 basehttp 25156 27848 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-05-01 22:16:17,220 basehttp 25156 31700 "GET /admin/auth/group/ HTTP/1.1" 200 7783
+INFO 2024-05-01 22:16:17,245 basehttp 25156 27848 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-05-01 22:16:17,251 basehttp 25156 11596 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-05-01 22:16:17,255 basehttp 25156 31700 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-05-01 22:16:17,264 basehttp 25156 27848 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-05-01 22:16:17,269 basehttp 25156 31700 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-05-01 22:16:17,276 basehttp 25156 11596 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-05-01 22:16:17,292 basehttp 25156 27848 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-05-01 22:16:17,292 basehttp 25156 32316 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-05-01 22:16:17,303 basehttp 25156 16900 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:16:17,315 basehttp 25156 22048 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-05-01 22:16:17,330 basehttp 25156 31700 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-05-01 22:16:17,355 basehttp 25156 22048 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-05-01 22:16:17,378 basehttp 25156 31700 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-05-01 22:16:19,153 basehttp 25156 31700 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-05-01 22:16:19,172 basehttp 25156 31700 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-05-01 22:16:19,180 basehttp 25156 31700 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:16:19,213 basehttp 25156 22048 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-05-01 22:16:19,213 basehttp 25156 31700 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-05-01 22:18:21,172 autoreload 27028 8180 Watching for file changes with StatReloader
+INFO 2024-05-01 22:18:24,110 basehttp 27028 10376 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-05-01 22:18:24,131 basehttp 27028 10376 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:18:25,811 basehttp 27028 10376 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-05-01 22:18:25,834 basehttp 27028 10376 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 2024-05-01 22:19:43,151 log 27028 10376 Not Found: /admin/auth/logout
+WARNING 2024-05-01 22:19:43,151 basehttp 27028 10376 "GET /admin/auth/logout HTTP/1.1" 404 4329
+WARNING 2024-05-01 22:19:46,761 log 27028 10376 Not Found: /admin/auth/logout
+WARNING 2024-05-01 22:19:46,762 basehttp 27028 10376 "GET /admin/auth/logout HTTP/1.1" 404 4329
+INFO 2024-05-01 22:19:47,517 basehttp 27028 10376 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-05-01 22:19:48,875 basehttp 27028 10376 "GET /admin/auth/user/ HTTP/1.1" 200 11914
+INFO 2024-05-01 22:19:48,894 basehttp 27028 10376 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:23:14,537 autoreload 27028 8180 W:\Study\Code\20_Фреймворк Django\project\myapp\admin.py changed, reloading.
+INFO 2024-05-01 22:23:14,842 autoreload 19176 2588 Watching for file changes with StatReloader
+INFO 2024-05-01 22:31:11,777 autoreload 2776 14792 Watching for file changes with StatReloader
+INFO 2024-05-01 22:31:53,436 autoreload 2776 14792 W:\Study\Code\20_Фреймворк Django\project\myapp\admin.py changed, reloading.
+INFO 2024-05-01 22:31:55,599 autoreload 22924 7100 Watching for file changes with StatReloader
+INFO 2024-05-01 22:34:56,166 autoreload 18928 21260 Watching for file changes with StatReloader
+INFO 2024-05-01 22:35:42,934 autoreload 18928 21260 W:\Study\Code\20_Фреймворк Django\project\myapp\admin.py changed, reloading.
+INFO 2024-05-01 22:35:43,207 autoreload 16676 30004 Watching for file changes with StatReloader
+INFO 2024-05-01 22:35:44,516 views 16676 8156 Index page accessed
+INFO 2024-05-01 22:35:44,520 basehttp 16676 8156 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:35:48,736 basehttp 16676 8156 "GET /admin/ HTTP/1.1" 200 7499
+INFO 2024-05-01 22:35:50,679 basehttp 16676 8156 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:35:50,699 basehttp 16676 8156 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:35:54,292 basehttp 16676 8156 "GET /admin/myapp/client/5/change/ HTTP/1.1" 200 12436
+INFO 2024-05-01 22:35:54,312 basehttp 16676 29876 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:35:54,418 basehttp 16676 18008 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-05-01 22:35:54,420 basehttp 16676 8156 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-05-01 22:35:54,422 basehttp 16676 29876 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-05-01 22:35:54,428 basehttp 16676 18008 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-05-01 22:35:54,428 basehttp 16676 8156 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-05-01 22:35:57,068 basehttp 16676 18008 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:35:57,092 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:02,794 basehttp 16676 18008 "GET /admin/myapp/order/ HTTP/1.1" 200 46633
+INFO 2024-05-01 22:36:02,820 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:08,034 basehttp 16676 18008 "GET /admin/myapp/product/ HTTP/1.1" 200 24124
+INFO 2024-05-01 22:36:08,055 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:09,461 basehttp 16676 18008 "GET /admin/auth/group/ HTTP/1.1" 200 8921
+INFO 2024-05-01 22:36:09,480 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:10,221 basehttp 16676 18008 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:36:10,238 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:12,787 basehttp 16676 18008 "GET /admin/myapp/order/ HTTP/1.1" 200 46633
+INFO 2024-05-01 22:36:12,805 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:45,801 basehttp 16676 18008 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:36:45,829 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:46,809 basehttp 16676 18008 "GET /admin/myapp/product/ HTTP/1.1" 200 24124
+INFO 2024-05-01 22:36:46,828 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:54,783 basehttp 16676 18008 "GET /admin/myapp/product/1/change/ HTTP/1.1" 200 13099
+INFO 2024-05-01 22:36:54,803 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:55,678 basehttp 16676 18008 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:36:55,696 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:36:57,087 basehttp 16676 18008 "GET /admin/myapp/client/5/change/ HTTP/1.1" 200 12436
+INFO 2024-05-01 22:36:57,106 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:37:09,466 basehttp 16676 18008 "GET /admin/myapp/client/ HTTP/1.1" 200 17338
+INFO 2024-05-01 22:37:09,486 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:38:25,581 basehttp 16676 18008 "GET /admin/myapp/ HTTP/1.1" 200 6274
+INFO 2024-05-01 22:38:27,668 basehttp 16676 18008 "GET /admin/myapp/client/add/ HTTP/1.1" 200 11954
+INFO 2024-05-01 22:38:27,687 basehttp 16676 18008 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-05-01 22:39:19,128 views 16676 18008 Index page accessed
+INFO 2024-05-01 22:39:19,128 basehttp 16676 18008 "GET / HTTP/1.1" 200 542
+INFO 2024-05-01 22:39:21,644 basehttp 16676 18008 "GET /admin/myapp/client/add/ HTTP/1.1" 200 11954
+INFO 2024-05-01 22:39:26,701 basehttp 16676 18008 "GET /admin/ HTTP/1.1" 200 7499

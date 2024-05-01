@@ -1,8 +1,11 @@
+
+
 from django.shortcuts import render, get_object_or_404, redirect
 from datetime import datetime as dt, timedelta
 from .models import Client, Product, Order
 from .forms import EditProductAndAddPhotoForm
 import logging
+import os
 from django.http import HttpResponse
 
 logger = logging.getLogger(__name__)
