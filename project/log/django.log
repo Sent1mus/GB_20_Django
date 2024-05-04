@@ -192,3 +192,6 @@ INFO 2024-05-01 22:39:19,128 views 16676 18008 Index page accessed
 INFO 2024-05-01 22:39:19,128 basehttp 16676 18008 "GET / HTTP/1.1" 200 542
 INFO 2024-05-01 22:39:21,644 basehttp 16676 18008 "GET /admin/myapp/client/add/ HTTP/1.1" 200 11954
 INFO 2024-05-01 22:39:26,701 basehttp 16676 18008 "GET /admin/ HTTP/1.1" 200 7499
+INFO 2024-05-01 22:51:35,948 autoreload 3524 19540 Watching for file changes with StatReloader
+INFO 2024-05-01 22:51:37,453 views 3524 23824 Index page accessed
+INFO 2024-05-01 22:51:37,457 basehttp 3524 23824 "GET / HTTP/1.1" 200 542
